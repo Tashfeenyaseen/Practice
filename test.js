@@ -53,6 +53,8 @@ function FibonacciCheck(num) {
   for (let i = 1; i <= num; i++) {}
 }
 FibonacciCheck(6);
+
+let a = 5;
 // 8. **Check for Prime Number**
 //    - Write a function that checks if a given number is prime.
 
